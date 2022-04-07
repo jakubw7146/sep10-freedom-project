@@ -1,1 +1,10 @@
+#topnav {
+    /*background-color: #15384B !important;*/
+    max-height: 40px;
+    /*color: white !important;*/
+}
+
+.sectiontitle {
+    text-align: center;
+}
 
