@@ -1,10 +1,37 @@
 #topnav {
-    /*background-color: #15384B !important;*/
+    background-color: #15384B !important;
     max-height: 40px;
-    /*color: white !important;*/
+    color: white !important;
 }
 
 .sectiontitle {
     text-align: center;
 }
 
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+}
+
+#text{
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 10%; 
+    text-align: center;
+    width: 60%;  
+    color: #000000;
+}
+    
+#navbar-example2 {
+    background-color: #15384B !important;
+    color: white !important;
+}
+    
+#headings {
+    color: white;
+}
