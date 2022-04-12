@@ -26,7 +26,7 @@
     width: 60%;  
     color: #000000;
 }
-    
+   
 #navbar-example2 {
     background-color: #15384B !important;
     color: white !important;
@@ -36,6 +36,16 @@
     color: white;
 }
 
-#abs {
+.abs {
     width: 30%;
+}
+
+.partb {
+    max-width: 500px;
+}
+
+.card {
+    /*width: 1000px;*/
+    margin-bottom: 100px;
+    /*left: 800px;*/
 }
