@@ -12,7 +12,7 @@
     display: block;
     margin-right: auto;
     margin-left: auto;
-    width: 50%;
+    width: 55%;
 }
 
 #text{
@@ -36,13 +36,13 @@
     color: white;
 }
 
-.abs {
-    width: 80%;
-}
+/*#abs {*/
+/*    width: 80%;*/
+/*}*/
 
-.partb {
-    width: 50%
-}
+/*#partb {*/
+/*    width: 50%*/
+/*}*/
 
 .card {
     /*width: 600px;*/
