@@ -1,5 +1,5 @@
 #topnav {
-    background-color: #15384B !important;
+    background-color: #415A77 !important;
     max-height: 40px;
     color: white !important;
 }
@@ -28,7 +28,7 @@
 }
 
 #navbar-example2 {
-    background-color: #15384B !important;
+    background-color: #415A77 !important;
     color: white !important;
 }
     
@@ -48,4 +48,11 @@
     /*width: 600px;*/
     margin-bottom: 100px;
     /*left: 800px;*/
+    border: solid 2px #0D1B2A;
+    border-radius: 5px;
+    background-color: #E0E1DD;
+}
+
+body {
+    background-color: #E0E1DD;
 }
