@@ -6,6 +6,8 @@
 
 .sectiontitle {
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
 }
 
 #firstimg {
@@ -50,9 +52,51 @@
     /*left: 800px;*/
     border: solid 2px #0D1B2A;
     border-radius: 5px;
-    background-color: #E0E1DD;
+    background-color: #E6E6E6;
 }
 
 body {
     background-color: #E0E1DD;
+}
+
+/*h1 {*/
+/*    animation: animate__backInLeft;*/
+/*    animation-iteration-count: infinite;*/
+/*}*/
+
+.titl {
+    display: inline-block;
+    margin: 0 0.5rem;
+    
+    animation: backInDown;
+    animation-duration: 2s;
+}
+
+#scrollspyHeading1 {
+    display: inline-block;
+    margin: 0 0.5rem;
+    
+    animation: backInLeft;
+    animation-duration: 2.5s;
+}
+
+#scrollspyHeading2 {
+    display: inline-block;
+    margin: 0 0.5rem;
+    
+    animation: backInRight;
+    animation-duration: 2.5s;
+}
+
+#scrollspyHeading3 {
+    display: inline-block;
+    margin: 0 0.5rem;
+    
+    animation: backInUp;
+    animation-duration: 2.5s;
+}
+
+#headings {
+    background-color: #344B66;
+    margin-right: 20px;
 }
