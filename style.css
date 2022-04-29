@@ -1,6 +1,6 @@
 #topnav {
     background-color: #415A77 !important;
-    max-height: 40px;
+    max-height: 80px;
     color: white !important;
 }
 
@@ -99,4 +99,9 @@ body {
 #headings {
     background-color: #344B66;
     margin-right: 20px;
+}
+
+#softwares {
+    margin-left: 40px;
+    margin-top: 25px;
 }
