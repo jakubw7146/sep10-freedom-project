@@ -105,3 +105,14 @@ body {
     margin-left: 40px;
     margin-top: 25px;
 }
+
+#carddesc {
+    /*border: black solid 2px;*/
+    
+}
+
+#itexts {
+    font-size: 18px;
+    margin-top: 10px;
+    line-height: 28px;
+}
